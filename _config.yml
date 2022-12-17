@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: ycpeng # the website title (if blank, full name will be used instead)
+title: Yanchong Peng # the website title (if blank, full name will be used instead)
 first_name: Yanchong
 middle_name: 
 last_name: Peng
@@ -16,7 +16,7 @@ footer_text: >
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: profile_pic.png  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 encoding: utf-8
 
 url: https://ycpeng8.github.io # the base hostname & protocol for your site
